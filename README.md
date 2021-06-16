@@ -1,2 +1,2 @@
 # Exercises
-Repositorio de estudos em Python
+Repositorio de estudos e práticas em Python
